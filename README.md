@@ -4,9 +4,9 @@ This repository folder is intended for my video series about "Image Processing a
 ***
 Folder repository ini ditujukan untuk video series "Image Processing & Computer Vision" di YouTube channel saya [di sini](https://www.youtube.com/watch?v=LUq072G3bYo&amp;list=PLkRkKTC6HZMzu_DOlmT45Jdf4kFHYrqFI). Semua codenya dibuat menggunakan Visual Studio, dan yang ada di repository ini, saya hanya upload file ".cpp" nya saja. Semoga bermanfaat :)
 <br>
-Contents:
--01_ImageRepresentation.cpp (Chapter 01) : grayscale representation, RGB representation, convert RGB to HSV/HSI, read image in OpenCV
--02_IntensityTransformation&SpatialFiltering.cpp (Chapter 01) : binary treshold, piece-wise linear transformation, histogram equalization, averaging/smooting filter, sharpening, unsharp masking, sobel filter (simple edge detection)
+Contents: <br>
+- 01_ImageRepresentation.cpp (Chapter 01) : grayscale representation, RGB representation, convert RGB to HSV/HSI, read image in OpenCV
+- 02_IntensityTransformation&SpatialFiltering.cpp (Chapter 01) : binary treshold, piece-wise linear transformation, histogram equalization, averaging/smooting filter, sharpening, unsharp masking, sobel filter (simple edge detection)
 <br><br>
 Best, <br> 
 Ardian Umam <br>
