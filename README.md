@@ -13,4 +13,5 @@ It is planned to have 11 Chapters. Some of them are: Filtering in Frequency Doma
 <br><br>
 Best, <br> 
 Ardian Umam <br>
-Blog : http://ardianumam.wordpress.com
+Blog : http://ardianumam.wordpress.com <br>
+You can contact me at : ardianumam@gmail.com
