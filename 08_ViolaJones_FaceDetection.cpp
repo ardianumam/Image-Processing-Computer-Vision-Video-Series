@@ -15,13 +15,13 @@ int main()
 {
 	//read image to imageInput Mat OpenCV
 	Mat imageInput;
-	//imageInput = imread("faces.jpg", CV_LOAD_IMAGE_COLOR);
-	imageInput = imread("russian_license-plate.jpg", CV_LOAD_IMAGE_COLOR);
+	imageInput = imread("faces.jpg", CV_LOAD_IMAGE_COLOR);
+	//imageInput = imread("russian_license-plate.jpg", CV_LOAD_IMAGE_COLOR);
 	
 	// Load Face cascade (.xml file)
 	CascadeClassifier face_cascade;
-	//face_cascade.load("C:/opencv/sources/data/haarcascades/haarcascade_frontalface_default.xml");
-	face_cascade.load("C:/opencv/sources/data/haarcascades/haarcascade_russian_plate_number.xml"); 
+	face_cascade.load("C:/opencv/sources/data/haarcascades/haarcascade_frontalface_default.xml");
+	//face_cascade.load("C:/opencv/sources/data/haarcascades/haarcascade_russian_plate_number.xml"); 
 
 	// Detect faces
 	std::vector<Rect> faceBasis;
